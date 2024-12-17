@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yap Deh KAi</h1>
+<h1 align="center">Hi 👋, I'm Yap Deh Kai</h1>
 <h3 align="center">A Software Engineering Student, Web and mobile application developer from Malaysia</h3>
 
 - 🌱 I’m currently learning **SpringBoot, Rasa, React, Express and Node**
