@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ydk1421@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X8AlRbBGvFH40LfplxhAaQxjKxV2wH5l/view?usp=sharing](https://drive.google.com/file/d/1X8AlRbBGvFH40LfplxhAaQxjKxV2wH5l/view?usp=sharing)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1Zj3sNj6XAQwCpCxB9v-F_HYDu_uQ_eNB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
