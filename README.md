@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, Rasa, React, Express and Node**
 
-- 👨‍💻 My portfolio are available at [www.dehkai.me](www.dehkai.me)
+- 👨‍💻 My portfolio are available at [www.dehkai.me](https://dehkai.me/)
 
 - 📫 How to reach me **ydk1421@gmail.com**
 
