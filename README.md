@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1A7BIAjb43sVTMn8-nVkk-B24-zpHszuF/view?usp=sharing)
 
+![DehKai's GitHub stats](https://github-readme-stats-kappa-gray-61.vercel.app/api?username=dehkai&show_icons=true&theme=transparent)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yapdehkai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yapdehkai" height="30" width="40" /></a>
