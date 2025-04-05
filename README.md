@@ -9,7 +9,8 @@
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1A7BIAjb43sVTMn8-nVkk-B24-zpHszuF/view?usp=sharing)
 
-![DehKai's GitHub stats](https://github-readme-stats-kappa-gray-61.vercel.app/api?username=dehkai&show_icons=true&theme=transparent&show=prs_merged,prs_merged_percentage&hide=issues&hide_border))
+![DehKai's GitHub stats](https://github-readme-stats-kappa-gray-61.vercel.app/api?username=dehkai&show_icons=true&theme=transparent&show=prs_merged,prs_merged_percentage&hide=issues&hide_border=true)
+[![Top Langs](https://github-readme-stats-kappa-gray-61.vercel.app/api/top-langs/?username=dehkai)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
