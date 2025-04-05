@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1A7BIAjb43sVTMn8-nVkk-B24-zpHszuF/view?usp=sharing)
 
-![DehKai's GitHub stats](https://github-readme-stats-kappa-gray-61.vercel.app/api?username=dehkai&show_icons=true&theme=transparent)
+![DehKai's GitHub stats](https://github-readme-stats-kappa-gray-61.vercel.app/api?username=dehkai&show_icons=true&theme=transparent&show=prs_merged,prs_merged_percentage&hide=issues&hide_border))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
