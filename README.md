@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yap Deh Kai</h1>
 <h3 align="center">A Software Engineering Student, Web and mobile application developer from Malaysia</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dehkai&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🌱 I’m currently learning **SpringBoot, Rasa, React, Express and Node**
 
 - 👨‍💻 My portfolio are available at [www.dehkai.me](https://dehkai.me/)
