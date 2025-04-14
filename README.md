@@ -1,5 +1,7 @@
 
-<h3 align="center">![](https://komarev.com/ghpvc/?username=dehkai&style=for-the-badge)</h3>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=dehkai&style=for-the-badge" alt="Profile Views"/>
+</div>
 <h1 align="center">Hi 👋, I'm Yap Deh Kai</h1>
 <h3 align="center">A Software Engineering Student, Web and mobile application developer from Malaysia</h3>
 
