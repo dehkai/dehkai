@@ -7,7 +7,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dehkai&no-frame=true&no-bg=true&theme=juicyfresh&title=-Stars,-Followers,-Issues)
 
-- 🌱 I’m currently learning **SpringBoot, Rasa, React, Express and Node**
+- 🌱 I’m currently working on **Final Year Project 2 - Bibian AI Assistant**
 
 - 👨‍💻 My portfolio are available at [www.dehkai.me](https://dehkai.me/)
 
